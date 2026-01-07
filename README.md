@@ -6,6 +6,7 @@ This project focuses on implementing core game mechanics such as grid movement, 
 Slitherrrrr is beginner-friendly, easy to play, and made purely for fun — a small but sassy take on the classic Snake game 🐍🎀
 
 🎮 How to Play:
+
 . Use the arrow keys to move the snake around the grid.
 
 . Eat the sass to grow longer and increase your score. 
